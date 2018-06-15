@@ -1,14 +1,23 @@
-.jumbotron{
-	background-color: #f9f9f9;
+.jum{
+	background-image: url(ac.jpg);
 
   
 }
 .fondo{
 	background-image: url(c.jpg);
 }
+.nav-let{
+	font-family: Helvetica;
+}
+.let{
+	font-family: sans-serif ;
+}
+
 
 .titulo{
 	text-align: center;
+	font-size: 4rem;
+	font-family: sans serif;
 }
 .img-nav{
 	width: 100px;
@@ -32,7 +41,7 @@
 	color: #061256;
 }
 
---noticias
+
 .head{
 	margin-top: 50px;
 	background-color: white;
@@ -78,13 +87,13 @@
 	margin-top: 0;
 }
 .fondo-article1{
-	background-color: #f4dcdc;
+	background-color: #f4fffe;
 }
 .fondo-article2{
-	background-color: #bff2d5;
+	background-color: #f4fffe;
 }
 .fondo-article3{
-	background-color: #f2e68a;
+	background-color: #f4fffe;
 }
 .aside{
 	border-bottom: 1px solid black;
