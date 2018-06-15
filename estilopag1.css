@@ -10,6 +10,13 @@
 .titulo{
 	text-align: center;
 }
+.img-nav{
+	width: 100px;
+    position: absolute;
+	top:0;
+    left:  92%;
+}
+
 .img{
 
 	width: 20rem;
@@ -70,6 +77,15 @@
 .title-article{
 	margin-top: 0;
 }
+.fondo-article1{
+	background-color: #f4dcdc;
+}
+.fondo-article2{
+	background-color: #bff2d5;
+}
+.fondo-article3{
+	background-color: #f2e68a;
+}
 .aside{
 	border-bottom: 1px solid black;
 
@@ -81,3 +97,8 @@
 .iframetamaño{
 	width: 10%;
 }
+
+.iframe-mapa{
+	float: left;
+}
+
